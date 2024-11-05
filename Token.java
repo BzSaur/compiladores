@@ -1,5 +1,5 @@
 public class Token {
-
+//muestra
     final TipoToken tipo;
     final String lexema;
     final Object literal; // Para manejar valores como números o cadenas
